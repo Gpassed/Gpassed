@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Jeremiah
 [instagram]: https://www.instagram.com/jeremiah
-[linkedin]: https://linkedin.com/in/Jeremiah
+[linkedin]: https://linkedin.com/Jeremiah
